@@ -2266,7 +2266,7 @@
 					"$(PROJECT_DIR)/NightDataApp/commonBase/NIMSDK",
 				);
 				GCC_OPTIMIZATION_LEVEL = s;
-				GCC_PREFIX_HEADER = /Users/kimuwei/Documents/with1798/NightDataApp/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/huangmengwei/Documents/withU/NightDataApp/PrefixHeader.pch;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"${PODS_ROOT}/Headers/Public\"",
@@ -2299,8 +2299,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = withU.NightDataApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c4aef7fe-e074-4e3c-9747-73d922e86c4c";
-				PROVISIONING_PROFILE_SPECIFIER = developWith;
+				PROVISIONING_PROFILE = "fc3a712c-d626-4b9d-bfe1-786fc49becda";
+				PROVISIONING_PROFILE_SPECIFIER = develop1798;
 				SDKROOT = iphoneos10.3;
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT} /**";
@@ -2330,7 +2330,7 @@
 					"$(PROJECT_DIR)/NightDataApp/commonBase/NIMSDK",
 				);
 				GCC_OPTIMIZATION_LEVEL = s;
-				GCC_PREFIX_HEADER = /Users/kimuwei/Documents/with1798/NightDataApp/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/huangmengwei/Documents/withU/NightDataApp/PrefixHeader.pch;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"${PODS_ROOT}/Headers/Public\"",
@@ -2363,8 +2363,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = withU.NightDataApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c4aef7fe-e074-4e3c-9747-73d922e86c4c";
-				PROVISIONING_PROFILE_SPECIFIER = developWith;
+				PROVISIONING_PROFILE = "fc3a712c-d626-4b9d-bfe1-786fc49becda";
+				PROVISIONING_PROFILE_SPECIFIER = develop1798;
 				SDKROOT = iphoneos10.3;
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT} /**";

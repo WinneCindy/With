@@ -29,14 +29,9 @@
     UILabel *barName;//酒吧名字
     UILabel *barSaleOnTime;//营业状态
     UILabel *BarDistance;//距离
-    
     UILabel *BarIntroduce;//介绍
-    
-    
     UITableView *BarDetailTable;
-    
     UICollectionView *JiuList;   //免费食品
-    
     NSMutableArray *imageList;
     
     NSMutableArray *tipArray;
