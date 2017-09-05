@@ -1,0 +1,67 @@
+//
+//  PrefixHeader.pch
+//  NightDataApp
+//
+//  Created by 黄梦炜 on 2017/7/11.
+//  Copyright © 2017年 黄梦炜. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define SCREEN_WIDTH    ([UIScreen mainScreen].bounds.size.width)
+#define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
+#define Color_Gold [UIColor colorWithRed:245.0/255.0  green:214.0/255.0 blue:80.0/255.0 alpha:1]
+#define Color_Cancel [UIColor colorWithRed:55.0/255.0  green:55.0/255.0 blue:55.0/255.0 alpha:1]
+#define Color_white [UIColor colorWithRed:1 green:1 blue:1 alpha:0.6]
+#define Color_whiteLight [UIColor colorWithRed:1 green:1 blue:1 alpha:0.4]
+#define Color_whiteLightLight [UIColor colorWithRed:1 green:1 blue:1 alpha:0.05]
+#define Color_gifHub [UIColor colorWithRed:48.0/255.0 green:43.0/255.0 blue:45.0/255.0 alpha:1]
+#define ImagePlaceHolder [UIImage imageNamed:@"placeholder"]
+#define ImageBarPlaceHolder [UIImage imageNamed:@"Bar1"]
+#define ImagePlaceHolderHead [UIImage imageNamed:@"placeholder"]
+#define Color_comment [UIColor colorWithRed:34.0/255.0  green:15.0/255.0 blue:37.0/255.0 alpha:1]
+#define Color_blackBack [UIColor colorWithRed:19.0/255.0  green:0/255.0 blue:20.0/255.0 alpha:1]
+#define CLColor(r,g,b) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:1.0f]
+#define Notification_Font_Size   10   // 通知文字大小
+#define Length(a) a / 375.0 * SCREEN_WIDTH
+#define UISreenWidthScale  SCREEN_WIDTH  / 320
+#define Message_Font_Size   14  
+//判断设备是否是iPad
+#define iPadDevice (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#import "becomeVipOrNotViewController.h"
+#import "LoginManager.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import "Masonry.h"
+#import "BaseDomain.h"
+#import "UrlManager.h"
+#import "userInfoModel.h"
+#import "SelfPersonInfo.h"
+#import "JYHColor.h"
+#import <GPUImage/GPUImage.h>
+#import "JYHNavigationController.h"
+#import "MainTabBarController.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+#import "UIImage+MultiFormat.h"
+#import "NSDictionary+EmptyString.h"
+#import "CommonFunction.h"
+#import "alertViewViewController.h"
+#import "becomeVipView.h"
+#import "AFNetworking.h"
+#import "AFNetworkActivityIndicatorManager.h"
+#import "LoginViewController.h"
+#import <MJRefresh.h>
+#import "UIView+SDAutoLayout.h"
+#import "UITableView+SDAutoTableViewCellHeight.h"
+#import "WithLoginViewController.h"
+#import "GiFHUD.h"
+#import "UIScrollView+PullToRefreshCoreText.h"
+#import <NIMSDK/NIMSDK.h>
+#import "NIMKit.h"
+#import "becomeVipOrNotViewController.h"
+#endif /* PrefixHeader_pch */

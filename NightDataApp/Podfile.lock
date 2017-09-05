@@ -1,0 +1,85 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GPUImage (0.1.7)
+  - JSONKit (1.5pre)
+  - M80AttributedLabel (1.6.3)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - NIMKit/Core (1.7.0):
+    - M80AttributedLabel (~> 1.6.3)
+    - SDWebImage (~> 3.8.2)
+    - SVProgressHUD (~> 2.0.3)
+    - Toast (~> 3.0)
+    - TZImagePickerController (~> 1.7.7)
+  - NIMKit/Lite (1.7.0):
+    - NIMKit/Core
+    - NIMSDK_LITE (~> 4.0.0)
+  - NIMSDK_LITE (4.0.0)
+  - RDVTabBarController (1.1.9)
+  - Reachability (3.2)
+  - SCLAlertView-Objective-C (1.0.6)
+  - SDAutoLayout (2.1.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.4)
+  - Toast (3.1.0)
+  - TZImagePickerController (1.7.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6.3)
+  - GPUImage (~> 0.1.7)
+  - JSONKit (~> 1.5pre)
+  - Masonry
+  - MBProgressHUD (~> 1.0.0)
+  - MJRefresh (~> 3.1.12)
+  - NIMKit/Lite
+  - RDVTabBarController (~> 1.1.9)
+  - Reachability (>= 3.2)
+  - SCLAlertView-Objective-C (~> 1.0.6)
+  - SDAutoLayout (~> 2.1.7)
+  - SDWebImage (~> 3.8.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  M80AttributedLabel: d06543195d3e451d2ea62ad76d04aa9cea7661d4
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NIMKit: 4a6fa323ef9f385938a1b773be22a20fef4e3653
+  NIMSDK_LITE: 365d2d37602f76a58e3e8aec8086c24304a85f8d
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SCLAlertView-Objective-C: ca78280817e66e74366b78579350dee2ff277e23
+  SDAutoLayout: e9b36d04b8c0b504762a04d76fbbe5108944297a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
+
+PODFILE CHECKSUM: 170c1cd4cbf2d8de8acbae585aaeb401afdd44c4
+
+COCOAPODS: 1.1.1

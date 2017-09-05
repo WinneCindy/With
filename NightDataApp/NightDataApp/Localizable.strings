@@ -1,0 +1,260 @@
+/* 
+  Localizable.strings
+  TakeAuto
+
+  Created by 黄 梦炜 on 15/6/29.
+  Copyright (c) 2015年 黄 梦炜. All rights reserved.
+*/
+
+// new
+"hometab_0_title"="CarManager";
+"hometab_1_title"="SearchCars";
+"hometab_2_title"="SeekCars";
+"hometab_3_title"="Services";
+"hometab_4_title"="Me";
+
+"garage_brand" = "Brand";
+"garage_all" = "All";
+"garage_xianche" = "Present";
+"garage_daili" = "Director";
+"garage_nodate" = "No matching Items Found";
+"garage_chexing" = "Models";
+"garage_outcolor" = "Exterior Colors";
+"garage_incolor" = "Interior Colors";
+"garage_type" = "Type";
+"garage_chexingtupian" = "ModelsImage";
+"garage_chejiahao" = "VIN";
+"garage_cheliangdizhi" = "AddressOfCar";
+"garage_price" = "Price";
+"garage_peizhi" = "DetailedConfiguration";
+"garage_miaoshu" = "DetailedDescription";
+"garage_fabutitle" = "Post Car Source";
+"garage_fabu" = "Rele";
+"garage_delete" = "BatchDeletion";
+"garage_yishou" = "TopCar";
+"garage_wancheng" = "Done";
+"garage_shuru" = "Please Enter";
+"garage_cheyuan" = "CarFrom";
+"garage_shouxu" = "Procedure";
+"garage_daogang" = "Arrived";
+"garage_mingxi" = "Model List";
+"garage_yanse" = "Color";
+"garage_xiaoshouquyv" = "SellArea";
+"my_minetitle" = "Mine";
+"my_guanzhu" = "MyFocus";
+"my_set" = "SystemSet";
+"my_qingchuhuancun" = "ClearCache";
+"my_zhuxiao" = "Logout";
+"my_shoucang" = "Collection";
+"my_gerenxinxi" = "UserInfo";
+
+"my_touxiang" = "Photo";
+"my_xingming" = "Name";
+"my_qianming" = "Signature";
+"my_shenfenzheng" = "IDCard";
+"my_gongsi" = "Company";
+"my_zhiwei" = "Office";
+"my_chengshi" = "City";
+"my_xingbie" = "Sex";
+"my_shoujihao" = "Tele";
+"my_shoujihao2" = "Tele2";
+"my_qq" = "QQ";
+"my_weixin" = "WeChat";
+"my_tishi" = "Can't send car imformation without IDCard or Company";
+"my_xinxixiugairenzheng" = "Information Modify Certification";
+"my_gongsidizhi" = "CompanyAdd";
+"my_gongsijieshao" = "Introduction";
+"my_renzheng" = "StoreCertification";
+"my_suozaichengshi" = "City";
+"my_bangongdianhua" = "OfficePhone";
+"my_zhengjianzhaopian" = "PhotoOfCredentials";
+"my_gongsilogo" = "Logo";
+
+
+
+"search_souche" = "Search";
+"seek_xunche" = "Seek";
+"seek_sellWhere" = "SellAddress";
+"service_fuwu" = "service";
+"seek_yanse" = "Color";
+"seek_youxiaoqi" = "Validity";
+"seek_xianshixinxi" = "ShowYourInfo";
+"seek_beizhu" = "Remark";
+// old
+
+"app_name"="CongestionOfGod";
+
+"distance_metre"="米";
+"distance_kilometer"="千米";
+
+"navbar_leftbutton_text"="返回";
+"navbar_title_text"="标题";
+
+"splashform_getweatherfail"="获取天气失败：";
+
+
+"release_text"="发布";
+
+"login_username_hint"="手机号码";
+"login_password_hint"="密码";
+"login_autologin_text"="记住密码";
+"login_loginbutton_text"="登录";
+"login_regbutton_text"="注册";
+"login_findbutton_text"="找回密码";
+"login_auth_isemptrytip"="用户名和密码不能为空！";
+
+"dialog_title_tip"="提示";
+"dialog_title_buttonlistselected"="请选择相应的操作：";
+"dialog_button_deletemsg"="清空消息记录";
+"dialog_button_delete"="删除";
+"dialog_button_ok"="确定";
+"dialog_button_cancel"="取消";
+"dialog_button_okknow"="知道了";
+"dialog_info_savefinish"="保存成功";
+
+"quitAlertMessage"="确定退出程序?";
+
+"registertel_title"="注册新用户";
+"registertel_usernamehint"="请输入6-13位用户名";
+"registertel_buttonnext_title"="下一步";
+"registertel_username_checkerror"="用户名长度不得小于6位！";
+"registertel_labeltel_title"="用户名：";
+
+"registerpwd_title"="设置密码";
+"registerpwd_username_label"="手机号码";
+"registerpwd_validatecode_label"="验证数字";
+"registerpwd_userpwd_label"="用户密码";
+"registerpwd_userrepwd_label"="重复密码";
+"registerpwd_validatecodebutton_title"="重新获取";
+"registerpwd_registerbutton_title"="注册";
+"registerpwd_tip_inputvalidatecode"="请输入短信验证码！";
+"registerpwd_tip_inputpassword"="请输入用户密码！";
+"registerpwd_tip_inputrepassword"="请输入校验密码！";
+"registerpwd_tip_inputpassworderror"="两次输入的密码不一致！";
+
+
+
+"homemore_blacklist_title"="黑名单";
+"homemore_photo_title"="相册";
+"homemore_setting_title"="设置";
+"homemore_checkupdate_title"="检查更新";
+"homemore_selfinfo_title"="个人资料";
+"homemore_clearmsgrecords_title"="清空聊天记录";
+"homemore_clearmsgrecords_tip"="确实要清空所有聊天记录么？";
+"homemore_zhuxiao_title"="注销";
+"homemore_zhuxiao_tip"="确实要注销么？";
+
+"homefujin_gps_error"="GPS定位失败，请稍后再试！";
+"homefujin_search_gps_title"="搜索位置：";
+"homefujin_search_sex_title"="性别：";
+"homefujin_search_sex_all_title"="不限";
+"homefujin_search_sex_boy_title"="男";
+"homefujin_search_sex_girl_title"="女";
+
+
+"homefujin_search_age_title"="年龄：";
+"homefujin_search_shengao_title"="身高：";
+"homefujin_search_tizhong_title"="体重：";
+"homefujin_search_xingzuo_title"="星座：";
+"homefujin_search_diqu_title"="地区：";
+"homefujin_search_xuexiao_title"="学校：";
+"homefujin_search_zhuanye_title"="专业：";
+"homefujin_search_zhiyefangxiang_title"="职业方向：";
+"homefujin_search_guanzhu_title"="我的关注：";
+"homefujin_search_fensi_title"="我的粉丝：";
+"homefujin_search_photo_title"="有照片：";
+"homefujin_search_select_title"="请选择";
+
+
+"releasedynamic_textview_hint"="请输入一段心情...";
+
+"hometucao_release_button_title"="发布吐槽";
+"hometucao_nav_right_button_title"="发布";
+"hometucao_mytucao_button_title"="我的吐槽";
+"hometucao_deletetucao_button_title"="删除吐槽";
+"hometucao_release_imageiszero_tip"="请至少分享一张图片再进行发布！";
+"hometucao_release_contextisempty_tip"="请输入文字说明再进行发布！";
+"hometucao_release_success_message"="发布成功！";
+
+"hometucao_comment_title"="请输入评论内容";
+"hometucao_comment_tip"="最多30字";
+
+"personinfoform_sendmessage_title"="发消息";
+"personinfoform_attention_label"="关注数:";
+"personinfoform_attention_button_title"="取消关注";
+"personinfoform_attention_button_title_un"="关注";
+"personinfoform_black_button_title_add"="加入黑名单";
+"personinfoform_black_button_title_del"="拉出黑名单";
+"personinfoform_layout_cell_imagelist_title"="个人相册";
+"personinfoform_layout_cell_city_title"="所在城市";
+"personinfoform_layout_cell_sign_title"="个人签名";
+
+"selfpersoninfo_navbar_rightbuttontitle"="保存";
+"selfpersoninfo_birthday_isempty"="未设置";
+"selfpersoninfo_headerlogo_title"="头像";
+"selfpersoninfo_name_title"="昵称";
+"selfpersoninfo_name_dialog_title"="请输入昵称:";
+"selfpersoninfo_name_dialog_hint"="昵称最大长度不能大于8字符";
+"selfpersoninfo_birthday_title"="生日";
+"selfpersoninfo_birthday_dialog_title"="请选择出生日期:";
+"selfpersoninfo_sex_title"="性别";
+"selfpersoninfo_sex_dialog_title"="请选择性别:";
+"selfpersoninfo_sign_title"="签名";
+"selfpersoninfo_sign_dialog_title"="请输入签名:";
+"selfpersoninfo_sign_dialog_hint"="签名最大长度不能大于30字符";
+"selfpersoninfo_form_title"="个人信息完善";
+"selfpersoninfo_height_title"="身高";
+"selfpersoninfo_height_dialog_title"="请输入身高:";
+"selfpersoninfo_height_dialog_hint"="身高以厘米为单位";
+"selfpersoninfo_weight_title"="体重";
+"selfpersoninfo_weight_dialog_title"="请输入体重:";
+"selfpersoninfo_weight_dialog_hint"="体重以公斤为单位";
+"selfpersoninfo_school_title"="学校";
+"selfpersoninfo_profession_title"="专业";
+"selfpersoninfo_job_title"="职业方向";
+"selfpersoninfo_zone_title"="地区";
+"selfpersoninfo_constellation_title"="星座";
+
+
+"hometucao_send_text"="发送";
+"hometucao_distance_text"="未知";
+"friendsareaview_forward_question"="确认转发此条么？";
+
+"myprivatemessagechat_button_sendtext_title"="发送";
+"myprivatemessagechat_button_sendimage_title"="图片";
+
+"blacklist_form_title"="黑名单";
+
+"hometucao_button_all"="附 近";
+"hometucao_button_friends"="好 友";
+
+"baseform_progress_waittip"="请稍候...";
+"baseform_message_title"="提示";
+"baseform_message_negativebutton_title"="知道了";
+
+"baseform_progress_NetErrorMessage"="网络访问异常";
+"baseform_progress_NoDataMessage"="未检索到数据";
+"baseform_progress_ClickLoadMessage"="点击加载数据";
+"baseform_progress_AllDataMessage"="已加载全部数据";
+"baseform_progress_LoadDataMessage"="请求数据中...";
+
+"base_weather_Temperature"="℃";
+"base_weather_WindDir"="风";
+"base_weather_WindPower"="级";
+"base_weather_Humidity"="%";
+
+"unit_time_hour"="小时";
+"unit_time_minute"="分钟";
+
+"base_undefine_title"="未定义";
+
+"base_searchtext_hit"="请输入搜索条件";
+"base_search_title"="搜索";
+
+"base_fuhao_xin"="❤️";
+
+"pull_up_label_alldata"="已加载全部数据";
+"pull_up_label_normal"="上拉进行刷新";
+
+"sex_boy"="男";
+"sex_girl"="女";

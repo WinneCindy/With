@@ -1,0 +1,15 @@
+platform:ios,'9.0'
+target 'NightDataApp' do
+pod 'RDVTabBarController', '~>1.1.9'
+pod 'AFNetworking', '~>2.6.3'
+pod 'Masonry'
+pod 'SDWebImage', '~> 3.8.1'
+pod 'SDAutoLayout', '~> 2.1.7'
+pod 'JSONKit', '~> 1.5pre'
+pod 'SCLAlertView-Objective-C', '~> 1.0.6'
+pod 'MBProgressHUD', '~> 1.0.0'
+pod 'MJRefresh', '~> 3.1.12'
+pod 'GPUImage', '~> 0.1.7'
+pod 'NIMKit/Lite'
+pod 'Reachability', '>= 3.2'
+end
