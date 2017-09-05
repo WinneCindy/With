@@ -85,7 +85,7 @@
 
 -(void)getDetailData
 {
-    [self showGIfHub];
+    [self showGIfHub];  // 这是现实小猫转圈
     NSMutableDictionary *params = [NSMutableDictionary dictionary];
     [params setObject:_idStr forKey:@"id"];
     [getBarDetail getData:URL_getBarDetail PostParams:params finish:^(BaseDomain *domain, Boolean success) {
