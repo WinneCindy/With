@@ -29,6 +29,10 @@
 #define Length(a) a / 375.0 * SCREEN_WIDTH
 #define UISreenWidthScale  SCREEN_WIDTH  / 320
 #define Message_Font_Size   14  
+
+
+
+
 //判断设备是否是iPad
 #define iPadDevice (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
 #import "becomeVipOrNotViewController.h"
